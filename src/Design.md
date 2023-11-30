@@ -48,11 +48,10 @@
 4. **Ring**
     - Effects:
         - Increases maxHp ,damage (%), speed, Increases Armor (All random)
-        
-
 5. **Necklace**
     - Effects:
-        - Increases maxHp ,damage (%), speed, Increases (All random).
+        - Increases maxHp ,damage (%), speed, Increases Armor (All random)
+
        
 
 ![Local Image](diagram.jpg)
