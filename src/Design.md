@@ -55,3 +55,4 @@
         - Increases maxHp ,damage (%), speed, Increases Armor (All random).
        
 
+![Local Image](diagram.jpg)
